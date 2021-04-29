@@ -2,11 +2,11 @@ With experience in startups, in the areas of sales, customer service, and CRM to
 
 I'm an Economics student and in my free time a filmmaker, but it was in software development that I found a way to unite creativity, logic, and the thirst for constant learning.
 
-I have skills with HTML, CSS, JavaScript, React, Redux, Code Versioning with GIT, and agile SCRUM
+I have skills with Python, Flask, Django, JavaScript, React, Redux, HTML. CSS Code Versioning with GIT, and agile SCRUM
 
-- 🔭 I’m currently working on React and Angular
-- 🌱 I’m currently learning Backend with Python and Smart Contracts with Plutus (Cardano)
-- 💬 Ask me anything about Frontend and Blockhain
+- 🔭 I’m currently working on Python, Django and Flask libraries.
+- 🌱 I’m currently learning Nextjs React and Typescript with  and Smart Contracts with Plutus (Cardano)
+- 💬 Ask me anything about Blockhain, I love that stuff
 - 📫 How to reach me: eniasoliveira27@gmail.com
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
