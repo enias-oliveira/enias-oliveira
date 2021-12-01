@@ -5,7 +5,7 @@ I'm an Economics student and in my free time a filmmaker, but it was in software
 I have skills with Python, Flask, Django, JavaScript, React, Redux, HTML. CSS Code Versioning with GIT, and agile SCRUM
 
 - 🔭 I’m currently working on MyHive, a virtual office and Mirqur, a Cardano based DEX.
-- 🌱 I’m currently learning NestJs and Smart Contracts with Plutus (Cardano)
+- 🌱 I’m currently learning Elixir for Web Development and Haskell for Smart Contracts Development with Plutus (Cardano)
 - 💬 Ask me anything about Blockhain, I love that stuff
 - 📫 How to reach me: eniasoliveira27@gmail.com
 
